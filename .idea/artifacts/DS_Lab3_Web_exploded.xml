@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DS_Lab3_Web_exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/DS_Lab3_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DS_Lab3/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DS_Lab3" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
